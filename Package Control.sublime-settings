@@ -1,29 +1,21 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"Anaconda",
 		"ANSIescape",
 		"AutoFileName",
-		"ayu",
-		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorConverter",
-		"Colored Comments",
 		"ColorHints",
 		"ColorPicker",
 		"CSS3",
 		"Emmet",
 		"Enki Theme",
 		"FileIcons",
-		"Formatter",
 		"Git",
-		"GitGutter",
 		"Gitignore",
 		"HexViewer",
 		"HighlightWords",
@@ -39,10 +31,11 @@
 		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
-		"Solarized Color Scheme",
 		"SqlBeautifier",
-		"SublimeLinter-shellcheck",
 		"Theme - Soda",
 		"TrailingSpaces",
+	],
+	"in_process_packages":
+	[
 	],
 }

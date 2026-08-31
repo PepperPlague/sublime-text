@@ -1,10 +1,6 @@
 {
-	"ignored_packages":
-	[
-		"Vintage",
-	],
 	"font_face": "Iosevka Fixed",
-	"font_size": 16,
+	"font_size": 11,
 	"font_options":
 	[
     	"gray_antialias",
@@ -35,4 +31,8 @@
   	"indent_guide_options": ["draw_normal", "draw_active"],
   	/*"font_options": ["gray_antialias", "subpixel_antialias"],*/ // for retina Mac & Windows
 
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
