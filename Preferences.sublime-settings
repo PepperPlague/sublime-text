@@ -8,17 +8,31 @@
 	"font_options":
 	[
     	"gray_antialias",
-    	"dlig",
-    	"ss01"
+    	"subpixel_antialias",
 	],
 	"rulers": [80, "dotted"],
 	"spell_check": true,
 	"index_files": true,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "Enki-Theme.sublime-theme",
 	"auto_save": "on_focus_loss",
 	"translate_tabs_to_spaces": true,
 	"tab_size": 4,
 	"ensure_newline_at_eof_on_save": true,
 	"trim_trailing_white_space_on_save": true,
-	"color_scheme": "ayu-mirage.sublime-color-scheme",
+	"color_scheme": "Packages/Enki Theme/scheme/Enki.tmTheme",
+ 	"enki_theme_accent_red": true, // or white for Light theme
+	"enki_theme_compact_sidebar": true,
+	"enki_theme_panel_separator": true,
+	"enki_theme_small_statusbar": true,
+	"enki_theme_small_tab": true,
+	"enki_theme_tabs_autowidth": true,
+	"enki_theme_tree_headings": false,
+  	"overlay_scroll_bars": "enabled",
+  	"line_padding_bottom": 2,
+  	"line_padding_top": 2,
+  	"bold_folder_labels": false, // or remove this line if you set it to true for Material Theme
+  	"always_show_minimap_viewport": true,
+  	"indent_guide_options": ["draw_normal", "draw_active"],
+  	/*"font_options": ["gray_antialias", "subpixel_antialias"],*/ // for retina Mac & Windows
+
 }
